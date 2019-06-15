@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="1dp"
+    android:orientation="horizontal"
+    tools:context=".MainActivity"
+    android:background="@color/cardview_dark_background"
+    android:hapticFeedbackEnabled="true"
+    >
+
+
+    <Button
+        android:id="@+id/no7"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="301dp"
+        android:background="@color/cardview_light_background"
+        android:hapticFeedbackEnabled="true"
+        android:text="7"
+        />
+
+    <Button
+        android:id="@+id/no8"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:layout_marginTop="301dp"
+        android:layout_toEndOf="@id/no7"
+        android:background="@color/cardview_light_background"
+        android:hapticFeedbackEnabled="true"
+        android:text="8" />
+
+
+    <Button
+    android:id="@+id/no9"
+    android:layout_toEndOf="@id/no8"
+    android:layout_marginTop="301dp"
+    android:layout_width="90dp"
+    android:layout_height="90dp"
+    android:hapticFeedbackEnabled="true"
+    android:background="@color/cardview_light_background"
+    android:text="9"/>
+
+    <Button
+        android:id="@+id/clear"
+        android:layout_toEndOf="@id/no9"
+        android:layout_marginTop="300dp"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="C"/>
+
+    <Button
+        android:id="@+id/no4"
+        android:layout_below="@id/no7"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="@string/_4"/>
+
+    <Button
+        android:id="@+id/no5"
+        android:layout_below="@id/no7"
+        android:layout_toEndOf="@id/no4"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="@string/_5"/>
+
+    <Button
+        android:id="@+id/no6"
+        android:layout_below="@id/no7"
+        android:layout_toEndOf="@id/no5"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="6"/>
+
+
+    <Button
+        android:id="@+id/clearE"
+        android:layout_toEndOf="@id/no9"
+        android:layout_below="@id/clear"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="\u232b"
+        />
+
+    <Button
+        android:id="@+id/div"
+        android:layout_below="@id/clearE"
+        android:layout_toEndOf="@id/no6"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="/"/>
+
+    <Button
+        android:id="@+id/no1"
+        android:layout_below="@id/no4"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="1"/>
+
+    <Button
+        android:id="@+id/no2"
+        android:layout_below="@id/no4"
+        android:layout_toEndOf="@id/no4"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="2"/>
+
+    <Button
+        android:id="@+id/no3"
+        android:layout_below="@id/no4"
+        android:layout_toEndOf="@id/no5"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="3"/>
+
+    <Button
+        android:id="@+id/multip"
+        android:layout_below="@id/div"
+        android:layout_toEndOf="@id/no6"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="*"/>
+
+    <Button
+        android:id="@+id/sub"
+        android:layout_below="@id/multip"
+        android:layout_toEndOf="@id/no6"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="-"/>
+
+    <Button
+        android:id="@+id/adder"
+        android:layout_below="@id/sub"
+        android:layout_toEndOf="@id/no6"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="+"/>
+
+    <Button
+        android:id="@+id/no0"
+        android:layout_below="@id/no1"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="0"/>
+
+    <Button
+        android:id="@+id/dot"
+        android:layout_below="@id/no1"
+        android:layout_toEndOf="@id/no4"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="."/>
+
+    <Button
+        android:id="@+id/eq"
+        android:layout_below="@id/no1"
+        android:layout_toEndOf="@id/no5"
+        android:layout_width="90dp"
+        android:layout_height="90dp"
+        android:hapticFeedbackEnabled="true"
+        android:background="@color/cardview_light_background"
+        android:text="="/>
+
+
+
+    <TextView
+        android:id="@+id/display"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="210dp"
+        android:textFontWeight="10"
+        android:textSize="50dp"
+        android:background="@null"
+        android:inputType="text|textNoSuggestions"
+        android:textColor="@color/cardview_light_background"  />
+
+</RelativeLayout>
+
