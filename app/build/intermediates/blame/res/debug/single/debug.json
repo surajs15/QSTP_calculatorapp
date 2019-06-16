@@ -12,12 +12,12 @@
         "source": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable/abc_ic_clear_material.xml"
-    },
-    {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/color-v23_abc_color_highlight_material.xml.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable_abc_ic_clear_material.xml.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable/abc_ic_clear_material.xml"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
@@ -144,12 +144,12 @@
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -224,12 +224,12 @@
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/79e9169d63255c1a39881ef78bf13f06/res/drawable-anydpi-v21/design_ic_visibility.xml"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable_abc_dialog_material_background.xml.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/layout_abc_action_bar_up_container.xml.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/interpolator-v21_mtrl_fast_out_linear_in.xml.flat",
@@ -412,12 +412,12 @@
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable/tooltip_frame_light.xml"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/color/switch_thumb_material_light.xml"
-    },
-    {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/color_switch_thumb_material_light.xml.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/color/switch_thumb_material_light.xml"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
@@ -440,20 +440,20 @@
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/79e9169d63255c1a39881ef78bf13f06/res/layout/design_layout_tab_icon.xml"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
-    },
-    {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/79e9169d63255c1a39881ef78bf13f06/res/layout/design_navigation_menu_item.xml"
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/79e9169d63255c1a39881ef78bf13f06/res/layout/design_navigation_menu_item.xml"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
@@ -476,12 +476,12 @@
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable/abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable_abc_btn_check_material.xml.flat",
@@ -530,6 +530,10 @@
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_light.xml.flat",
         "source": "/home/suraj/.gradle/caches/transforms-2/files-2.1/0ef993bce29e5f9d987a7331cfc98b88/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/layout-anydpi_activity_main.xml.flat",
+        "source": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/src/main/res/layout-anydpi/activity_main.xml"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
@@ -1154,6 +1158,10 @@
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/layout-v28_activity_main.xml.flat",
+        "source": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/src/main/res/layout-v28/activity_main.xml"
     },
     {
         "merged": "/home/suraj/AndroidStudioProjects/CALCULATOR/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
