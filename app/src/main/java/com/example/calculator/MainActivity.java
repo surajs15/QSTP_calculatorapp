@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     Button b0,b1,b2,b3,b4,b5,b6,b7,b8,b9,bclear,bclearE,b_add,b_sub,b_div,b_dec,b_equal,b_multipl;
 
     TextView numdisplay;
-
+    TextView eqdisplay;
 
     private double val1;
     private double val2;
@@ -48,6 +48,7 @@ public class MainActivity extends AppCompatActivity {
         b_equal = (Button) findViewById(R.id.eq);
         b_multipl = (Button) findViewById(R.id.multip);
         numdisplay = (TextView) findViewById(R.id.display);
+        eqdisplay = (TextView) findViewById(R.id.aftdisplay);
 
 
 
@@ -205,6 +206,8 @@ public class MainActivity extends AppCompatActivity {
                     return;
                 str = null;
                 numdisplay.setText(str);
+                eqdisplay.setText(str);
+
             }
         });
 
@@ -213,6 +216,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onClick(View v) {
                     String txt = numdisplay.getText().toString();
+                    eqdisplay.setText(txt);
 
                     if(lastnum) {
 
